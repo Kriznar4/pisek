@@ -1,0 +1,13 @@
+Fibonaccijevo zaporedje je zaporedje števil, ki se zaène z 0 in 1, od tam naprej pa je vsako število vsota prejšnjih dveh: 0, 1, 1, 2, 3, 5, 8, 13, 21, ... Napiši funkcijo Fib(n), ki vrne n-to število tega zaporedja.
+
+To nalogo lahko rešiš na vsaj dva razlièna naèina: z zanko ali pa z rekurzijo. Preizkusi obe rešitvi in primerjaj, katera je hitrejša pri malo veèjih n in zakaj.
+
+Tvoj program naj uporabi funkcijo Fib(n) na številu n = 7 in nato izpiše rezulat na izhod.
+
+-----------------------------------------------
+
+Pri matematiki se Janezek v šoli uèi o zaporedjih. Uèiteljica jim je govorila o zanimivem Fibonaccijevem zaporedju. Fibonaccijevo zaporedje je zaporedje števil, ki se zaène z 0 in 1, od tam naprej pa je vsako število vsota prejšnjih dveh: 0, 1, 1, 2, 3, 5, 8, 13, 21, ... Za doamèo nalogo jim je dala napisati nekaj nakjuènih števil fibonaèijevega zaporedja ter katera po vrsti so. Pomagaj uèiteljici tako, da napišeš funkcijo Fib(n), ki vrne n-to število tega zaporedja, sicer bo domaèo nalogo popravljala cel teden.
+
+To nalogo lahko rešiš na vsaj dva razlièna naèina: z zanko ali pa z rekurzijo. Preizkusi obe rešitvi in primerjaj, katera je hitrejša pri malo veèjih n in zakaj, da bo imela Janezkova uèiteljca èim hitreje popravljeno domaèo nalogo.
+
+Tvoj program naj uporabi funkcijo Fib(n) na številu n = 7 in nato izpiše rezulat na izhod.

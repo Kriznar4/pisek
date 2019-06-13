@@ -1,0 +1,5 @@
+Naslednja funkcija dobi kot parameter niz s in naj bi vrnila niz, ki ostane, èe v s pobrišemo vse, kar je v oklepajih. Primer: PobrisiOklepaje("ena(dve)tri(stiri) pet") mora vrniti "enatri pet". Pri tem sme predpostaviti, da oklepaji nikjer niso vgnezdeni eni v drugih (na ((primer) takole)). Vendar pa ima ta funkcija nekaj napak; poišèi jih in jih odpravi.
+
+------------------------
+
+Franci je svojemu mentorju poslal diplomsko nalogo, da jo pregleda in komentira. Ker je nalogo pisal zadnji dan, je bila izdelana zelo površno in pomankljivo, zato mu je mentor mnoge komentarje napisal kar v besedilo, znotraj oklepajev. Ker je komentarjev res veliko, se je Franci odloèil, da napiše funkcijo PobrisiOklepaje(s), ki iz niza s pobriše vse oklepaje ter besedilo znotraj. Primer: PobrisiOklepaje("ena(dve)tri(stiri) pet") mora vrniti "enatri pet". Pri tem je predpostavil, da oklepaji nikjer niso vgnezdeni eni v druge (na ((primer) takole)). Vendar pa ima ta funkcija nekaj napak; poišèi jih in jih odpravi.

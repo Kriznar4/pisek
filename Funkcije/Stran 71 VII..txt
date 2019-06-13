@@ -1,0 +1,11 @@
+Napiši funkcijo KolikokratNajmanjsi(t), ki dobi kot parameter tabelo t in vrne število, ki pove, kolikokrat se v tabeli t pojavi najmanjši element te tabele.
+Primer: KolikokratNajmanjsi([10, 15, 8, 13, 15, 8, 15, 17]) mora vrniti 2 (najmanjši element dane tabele je 8, ki se v njej pojavi 2-krat).
+
+Tvoj program naj uporabi funcijo KolikokrtNajmanjsi(t) na tabeli [11, 17, 6, 8, 6, 13, 11, 17, 6, 8] in nato izpiše rezultat.
+
+----------------------------------
+
+V Japonskem mestu Minamiuonuma poteka že petnajsto tradicionalno tekmovanje bonsaiev. Eden izmed glavnih parametrov za ocenjevanje je tudi njegova velikost. Napiši funkcijo KolikokratNajmanjsi(t), ki dobi kot parameter tabelo t v kateri so shranjene višine bonsaiev in vrne število, koliko je najmanjših drevesc.
+Primer: KolikokratNajmanjsi([10, 15, 8, 13, 15, 8, 15, 17]) mora vrniti 2 (najmanjša bonsaia sta 2, in sicer višine 8).
+
+Tvoj program naj uporabi funcijo KolikokrtNajmanjsi(t) na tabeli [11, 17, 6, 8, 6, 13, 11, 17, 6, 8] in nato izpiše rezultat.

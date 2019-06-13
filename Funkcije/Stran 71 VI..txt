@@ -1,0 +1,11 @@
+Vrnimo se k eni od nalog iz tretje uène enote (Zanke), ki jo lahko zdaj s funkcijami rešimo lepše in elegantneje.
+
+Napiši funkcijo ZanimivaStevila(N, k), ki izpiše vsa tista praštevila med 1 in N, ki imajo v desetiškem zapisu vsaj k števk enakih 1 in ki nastopajo kot z v kakšni pitagorejski trojici (x; y; z).
+
+Svojo rešitev strukturiraj tako, da se za preverjanje praštevilskosti, štetje števk z vrednostjo 1 ipd. uporablja loèene funkcije, ki jih potem klièe glavna funkcija ZanimivaStevila.
+
+---------------------------------
+
+Tine in Tone sta brata dvojèka. Oba sta zagrizena matematika in v prostem èasu raziskujeta števila, vendar pa se ukvarjata le s praštevili, saj so ostala števila dolgoèasna. Tinetu se zdijo zanimiva le praštevila, ki imajo k števk ali veè enakih 1. Število k je povsem odvisno od njegovega poèutja. Toneta pa zanimajo le praštevila, ki nastopajo kot z v kakšni pitagorejski trojici (x; y; z). Napiši funkcijo ZanimivaStevila(N, k), ki izpiše vsa tista števila med 1 in N, ki se tisti dan zdijo zanimiva tako Tinetu kot Tonetu.
+
+Svojo rešitev strukturiraj tako, da se za preverjanje vsake lastnosti uporablja loèene funkcije, ki jih potem klièe glavna funkcija ZanimivaStevila.
