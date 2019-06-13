@@ -1,0 +1,5 @@
+Kaj se zgodi, če tej funkciji damo niz z vgnezdenimi oklepaji, na primer PobrisiOklepaje("ena(dve(tri)stiri)pet")? Predelaj funkcijo tako, da bo pravilno delovala tudi v takih primerih.
+
+-----------------
+
+Ko je Franci prebiral mentorjeve komentarje, je kmalu ugotovil, da je mentor gnezdil svoje komentarje. Kaj sev tem primeru zgodi s funkcijo, ki jo je napisal prej, na primer PobrisiOklepaje("ena(dve(tri)stiri)pet")? Predelaj funkcijo tako, da bo pravilno delovala tudi v takih primerih.
