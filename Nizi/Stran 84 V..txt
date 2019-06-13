@@ -1,0 +1,5 @@
+Napiši funkcijo KolikoSamoglasnikov(s), ki vrne število samoglasnikov v danem nizu s.
+
+--------------------------
+
+Jože je dobil domačo nalogo pri filozofiji. Do konca počitnic mora napisati esej o antičnih filozofih. Ker pa je Jože priden in je esej napisal že prvi dan, in ker nima prijateljev, mu je zelo dolgčas. Odločil se je, da bo poiskal poved v svojem eseju, ki vsebuje največ samoglasnikov. Kot izkušenega programerja te je najel, da napišeš funkcijo KolikoSamoglasnikov(s), ki vrne število samoglasnikov v danem nizu s.
