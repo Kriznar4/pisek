@@ -1,0 +1,5 @@
+Napiši funkcijo Vsota(s), ki kot parameter dobi niz, v katerem je zapisanih več celih števil, ločenih s podpičji. Funkcija naj vrne vsoto teh števil (kot celoštevilsko vrednost). Primer: Vsota("10;2;25") naj vrne 37.
+
+--------
+
+Na Slovenskih železnicah so pregledovali ostanke tirnic. Njihove dolžine v centimetrih (cela števila) so si shranjevali v niz, kjer so med seboj ločene s podpičji. Napiši funkcijo Vsota(s), ki kot parameter dobi tak niz, ter vrne dolžino proge, ki jo lahko položijo z ostanki, torej vsoto teh števil. Primer: Vsota("10;2;25") naj vrne 37.
