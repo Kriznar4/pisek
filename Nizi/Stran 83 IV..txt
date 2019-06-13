@@ -1,0 +1,21 @@
+Naslednja funkcija naj bi izpisala nize iz tabele t vsakega v svojo vrstico tako, da bodo desno poravnani.
+Primer: pri klicu Izpisi(["sest", "dvanajst", "sedem", "tri"]) naj bi se izpisalo
+
+    sest
+dvanajst
+   sedem
+     tri
+
+Vendar pa ta funkcija ne deluje pravilno. Poišči napake in jih odpravi.
+
+------------------------------
+
+Dimitar je spoznal čudovito dekle. Njeno srce bi rad osvojil z izvirno poezijo, saj ve, da je dekle velik knjižni molj. Ker bi rad čim hitreje pisal pesmi, se je odločil, da si naredi svoj slovar rim. Besede ima že urejene in shranjene kot nize v nekem seznamu, zaradi preglednosti pa si jih želi ispisati tako, da bodo desno poravnane.
+Primer: pri klicu Izpisi(["sest", "dvanajst", "sedem", "tri"]) naj bi se izpisalo
+
+    sest
+dvanajst
+   sedem
+     tri
+
+Sam je že poskušal rešiti ta problem in spisal funkcijo Izpisi(t), vendar pa ta funkcija ne deluje pravilno. Po dveh urah iskanja napake je obupal in te prosil za pomoč. Poišči napake in jih odpravi.
