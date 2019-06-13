@@ -1,0 +1,5 @@
+Napiši funkcijo, ki dobi tabelo nizov in poišče v njej tisti niz, ki ima največji delež samoglasnikov (glede na dolžino niza). Na primer, v nizu kramp je en sam samoglasnik (od petih znakov), tako da je delež samoglasnikov v njem 1/5; v nizu ananas pa je delež samoglasnikov kar 1/2 (trije znaki od od šestih).
+
+------------------
+
+Zunaj je začelo deževati in Jože se spet dolgočasi. Tokrat se je za zabavo odločil, da priskusi tvoje programerske sposobnosti, zato ga zanima, kateri stavek v njegovem eseju ima največji delež samoglasnikov. Napiši funkcijo, ki dobi tabelo nizov in poišče v njej tisti niz, ki ima največji delež samoglasnikov (glede na dolžino niza). Na primer, v nizu kramp je en sam samoglasnik (od petih znakov), tako da je delež samoglasnikov v njem 1/5; v nizu ananas pa je delež samoglasnikov kar 1/2 (trije znaki od od šestih).
