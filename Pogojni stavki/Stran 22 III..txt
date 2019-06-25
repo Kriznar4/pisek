@@ -1,0 +1,43 @@
+ Napiši program, ki prebere dve celi števili in izpiše besedilo prvo, če je prvo število večje od drugega, drugo, če je drugo število večje od prvega, in enaki, če sta vnešeni števili enaki. Na primer:
+Vhod:
+
+30
+20
+
+	Izhod:
+
+drugo
+
+Vhod:
+
+6
+6
+
+	Izhod:
+
+enaki
+
+V uvodnem delu programa nastavi spremenljivko prvo na 30 in drugo na 20. 
+
+-------------------------------------------
+
+ Zaradi stalne prisotnosti šefovega sina si že popolnoma izmučen, zato ne veš več, katera števila so večja in katera manjša od drugih. Olajšaj si delo in napiši program, ki prebere dve celi števili in izpiše besedilo prvo, če je prvo število večje od drugega, drugo, če je drugo število večje od prvega, in enaki, če sta vnešeni števili enaki. Na primer:
+Vhod:
+
+30
+20
+
+	Izhod:
+
+drugo
+
+Vhod:
+
+6
+6
+
+	Izhod:
+
+enaki
+
+V uvodnem delu programa nastavi spremenljivko prvo na 30 in drugo na 20. 

@@ -1,0 +1,23 @@
+ Napiši program, ki prebere celo število in izpiše besedilo večje, če je število večje od 42, manjše, če je manjše od 42, in enako, če je vnešeno število enako 42. Na primer:
+Vhod:
+
+30
+
+	Izhod:
+
+manjše
+
+V uvodnem delu programa nastavi spremenljivko stevilo na 30. 
+
+---------------------------------------
+
+ Šefov sin se zelo rad cele dneve igra ugibanje števil. Ker si ga že naveličan in bi rad počel še kaj drugega  mu napiši program, ki prebere celo število in izpiše besedilo večje, če je število večje od 42, manjše, če je manjše od 42, in enako, če je vnešeno število enako 42. Na primer:
+Vhod:
+
+30
+
+	Izhod:
+
+manjše
+
+V uvodnem delu programa nastavi spremenljivko stevilo na 30. 
